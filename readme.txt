@@ -19,6 +19,7 @@ The Show IDs plugin displays the ID of all posts, categories, pages, taxonomies,
 * Supports custom post types and custom taxonomies
 
 = Features =
+
 The Show ID plugin will reveal IDs for the following: 
 
 * posts
